@@ -1,0 +1,7 @@
+gym
+gymnasium
+networkx
+setproctitle
+pandas
+matplotlib
+tensorboardX
