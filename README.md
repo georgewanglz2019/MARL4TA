@@ -20,3 +20,7 @@ Multi-agent reinforcement learning for traffic assignment
    pip install matplotlib
    pip install tensorboardX
    ```
+   or
+   ```bash
+   pip install -r requirements.txt
+   ```
