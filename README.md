@@ -1,7 +1,7 @@
 # MARL4TA
 
 Code for the paper: *Scalable and Reliable Multi-agent Reinforcement Learning for Traffic Assignment*  
-Available at: [https://www.arxiv.org/abs/2506.17029](https://www.arxiv.org/abs/2506.17029)
+Pre-print version available on [arXiv:2506.17029](https://www.arxiv.org/abs/2506.17029)
 
 > 🔒 The full code will be released after the peer-review process is complete.
 
