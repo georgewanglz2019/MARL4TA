@@ -28,3 +28,9 @@ Pre-print version available on [arXiv:2506.17029](https://www.arxiv.org/abs/2506
    ```bash
    pip install -r requirements.txt
    ```
+
+4. **Run**:
+
+   ```bash
+   python train_ta.py
+   ```
