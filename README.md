@@ -16,13 +16,7 @@ Pre-print version available on [arXiv:2506.17029](https://www.arxiv.org/abs/2506
 
 3. **Install required dependencies: You can install all necessary packages by running**:
    ```bash
-   pip install gym
-   pip install gymnasium
-   pip install networkx
-   pip install setproctitle
-   pip install pandas
-   pip install matplotlib
-   pip install tensorboardX
+   pip install gym gymnasium networkx setproctitle pandas matplotlib tensorboardX
    ```
    or
    ```bash
